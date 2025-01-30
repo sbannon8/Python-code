@@ -22,7 +22,7 @@ For this project, the following python libraries were used:
 - matplotlib - for visualization
 
 #### Executing the code
-The code is available as jupyter notebooks under /scripts/.
+The code is available as jupyter notebooks under /02 Scripts/.
 
  ---
 
